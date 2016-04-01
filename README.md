@@ -15,7 +15,7 @@ Unregistered Users:
 - [ ] As an unregistered user, I want to be able to pop the balloon so I can reach the objective of the game.
 - [ ] As an unregistered user, I want to be able to win so I can beat the other players.
 - [ ] As an unregistered user, I want to be able to lose so it is fair to the other players.
-- 
+
 Registered User:
 - [ ] As a registered user, I want to be able to login as a player so my statistics can be recorded.
 - [ ] As a registered user, I want to be able to play the game in order to have fun.
