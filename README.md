@@ -8,7 +8,7 @@
 The following functionality is completed:
 
 Unregistered Users:
-- [ ]As an unregistered user, I want to be able to register as a player so my statistics can be recorded.
+- [ ] As an unregistered user, I want to be able to register as a player so my statistics can be recorded.
 - [ ]As an unregistered user, I want to be able to play the game in order to have fun.
 - [ ]As an unregistered user, I want to be able to roll the die so I can increment my score.
 - [ ]As an unregistered user, I want to be able to see a counter to see my score during the game.
